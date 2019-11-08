@@ -1,0 +1,11 @@
+C:\Users\Britini\source\repos\Joust\Joust\bin\Debug\netcoreapp3.0\Joust.exe
+C:\Users\Britini\source\repos\Joust\Joust\bin\Debug\netcoreapp3.0\Joust.deps.json
+C:\Users\Britini\source\repos\Joust\Joust\bin\Debug\netcoreapp3.0\Joust.runtimeconfig.json
+C:\Users\Britini\source\repos\Joust\Joust\bin\Debug\netcoreapp3.0\Joust.runtimeconfig.dev.json
+C:\Users\Britini\source\repos\Joust\Joust\bin\Debug\netcoreapp3.0\Joust.dll
+C:\Users\Britini\source\repos\Joust\Joust\bin\Debug\netcoreapp3.0\Joust.pdb
+C:\Users\Britini\source\repos\Joust\Joust\obj\Debug\netcoreapp3.0\Joust.csprojAssemblyReference.cache
+C:\Users\Britini\source\repos\Joust\Joust\obj\Debug\netcoreapp3.0\Joust.AssemblyInfoInputs.cache
+C:\Users\Britini\source\repos\Joust\Joust\obj\Debug\netcoreapp3.0\Joust.AssemblyInfo.cs
+C:\Users\Britini\source\repos\Joust\Joust\obj\Debug\netcoreapp3.0\Joust.dll
+C:\Users\Britini\source\repos\Joust\Joust\obj\Debug\netcoreapp3.0\Joust.pdb
